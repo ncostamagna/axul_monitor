@@ -1,6 +1,5 @@
 import numpy as np
 import cv2
-from PIL import ImageGrab
 import time
 import alertzy.req as alertzy
 
